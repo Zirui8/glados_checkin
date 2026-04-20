@@ -3,8 +3,7 @@
 GLaDOS（glados.cloud / glados.rocks / glados.network）每日自动签到脚本，使用 GitHub Actions 实现。
 
 ---
-**注意⚠️**
-当前版本特点**(2026.4.20)：
+**注意⚠️**(2026.4.20)：
 - 2026年4月20日收到glados的邮件，原账号已经转移到新的平台[Railgun](https://railgun.info)，继承了之前账号的计划和剩余天数，但没有继承之前的点数
 - 如需要继续自动签到，请移步到新的仓库[railgun_checkin](https://github.com/Zirui8/railgun_checkin)
 
