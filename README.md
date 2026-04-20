@@ -2,11 +2,19 @@
 
 GLaDOS（glados.cloud / glados.rocks / glados.network）每日自动签到脚本，使用 GitHub Actions 实现。
 
-**当前版本特点**(2026.2.4)：
+---
+**注意⚠️**
+当前版本特点**(2026.4.20)：
+- 2026年4月20日收到glados的邮件，原账号已经转移到新的平台[Railgun](https://railgun.info)，继承了之前账号的计划和剩余天数，但没有继承之前的点数
+- 如需要继续自动签到，请移步到新的仓库[railgun_checkin](https://github.com/Zirui8/railgun_checkin)
+
+**V2026.2.4**(2026.2.4)：
 - 支持**多个账号**同时签到
 - 失败会让 Actions 失败并发送绑定GitHub账号的邮箱提醒，重复签到视为正常，不触发失败邮件
 
 **参考项目**：本仓库参考/部分 fork 自 [actions-integration/checkin](https://github.com/actions-integration/checkin)，本仓库改为纯 Python 实现。
+
+---
 
 ## 使用说明
 
